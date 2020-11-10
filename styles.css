@@ -1,0 +1,30 @@
+header {
+background-color: #fc2;
+}
+
+
+
+.selector-for-some-widget {
+  box-sizing: content-box;
+}
+
+.row{
+align-content: center;
+text-align: center;
+height:50%;
+}
+
+.font-div {
+	width: 25%;
+
+}
+
+.font-div-my {
+	width: 49.99%;
+}
+
+@media only screen and (min-width: 1000px) {
+	.font-div-my {
+		padding: 55px 0px!important;
+	}
+}
